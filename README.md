@@ -8,6 +8,7 @@ language it bridges rapid development and performance.
 
 * Fast - concurrency(use all cores), runs machine code
 * Statically Typed - fewer runtime errors, compiler checks
+* Safe - first-class error handling idioms, strong types
 * Portable - compiles to single executable, easy to deploy
 * Productive - tool + standard library + small = fun to write
 
